@@ -10,5 +10,11 @@
     "description": "Custom music playlist interface, dengan musik favorit gw dalam bentuk .mp3",
     "source": "https://github.com/ihsansaid10/music-playlist",
     "preview": "https://ihsansaid10.github.io/music-playlist"
+  },
+  {
+    "name": "font to png",
+    "description": "tools yang memudahkan designer yang tidak ingin subscribe fitur premium, \"upload font\", disini bisa upload font sendiri > ketik tulisan > download hasilnya dalam bentuk .png transparan",
+    "source": "https://github.com/ihsansaid10/fonttopng",
+    "preview": "https://ihsansaid10.github.io/fonttopng"
   }
 ]
