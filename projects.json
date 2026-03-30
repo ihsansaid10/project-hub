@@ -4,5 +4,11 @@
     "description": "test",
     "source": "https://youtube.com/",
     "preview": "https://youtube.com/"
+  },
+  {
+    "name": "test2",
+    "description": "test2",
+    "source": "https://youtube.com",
+    "preview": "https://youtube.com"
   }
 ]
