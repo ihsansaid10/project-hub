@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ihsan Portfolio Hub - Modern Edition</title>
+  
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav class="navbar">
+    <div class="logo">
+      <i class="fas fa-layer-group icon-logo"></i>
+      <h2>Ihsan <span>Project</span> Hub</h2>
+    </div>
+    <div class="nav-right">
+      <a href="https://github.com/ihsansaid10" target="_blank" class="nav-link">
+        <i class="fab fa-github"></i> Profile
+      </a>
+    </div>
+  </nav>
+
+  <main>
+    <div class="hero-section">
+      <h1>Selamat Datang.</h1>
+      <p>Eksplorasi koleksi proyek, source code, dan aplikasi hasil eksperimen digital saya.</p>
+    </div>
+
+    <div class="search-container">
+      <i class="fas fa-search search-icon"></i>
+      <input 
+        type="text" 
+        id="search" 
+        placeholder="Cari proyek berdasarkan nama atau deskripsi..." 
+        onkeyup="searchProject()" 
+        class="search"
+      />
+    </div>
+
+    <div id="project-list" class="grid">
+      </div>
+  </main>
+
+  <footer>
+    <div class="footer-content">
+      <p>&copy; 2026 Ihsan Said. All rights reserved.</p>
+      <div class="social-links">
+        <a href="https://instagram.com/hsn_said2410" target="_blank"><i class="fab fa-instagram"></i></a>
+        <a href="https://github.com/ihsansaid10" target="_blank"><i class="fab fa-github"></i></a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
