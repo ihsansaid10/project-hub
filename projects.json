@@ -6,9 +6,9 @@
     "preview": "https://ihsansaid10.gtihub.io"
   },
   {
-    "name": "test2",
-    "description": "test2",
-    "source": "https://youtube.com",
-    "preview": "https://youtube.com"
+    "name": "mi musica favorita",
+    "description": "Custom music playlist interface, dengan musik favorit gw dalam bentuk .mp3",
+    "source": "https://github.com/ihsansaid10/music-playlist",
+    "preview": "https://ihsansaid10.github.io/music-playlist"
   }
 ]
