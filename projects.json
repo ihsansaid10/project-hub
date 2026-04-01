@@ -16,5 +16,11 @@
     "description": "tools yang memudahkan designer yang tidak ingin subscribe fitur premium, \"upload font\", disini bisa upload font sendiri > ketik tulisan > download hasilnya dalam bentuk .png transparan",
     "source": "https://github.com/ihsansaid10/fonttopng",
     "preview": "https://ihsansaid10.github.io/fonttopng"
+  },
+  {
+    "name": "canon-zombie",
+    "description": "game zombie shooter simple dibuat dengan Claude.ai",
+    "source": "https://github.com/ihsansaid10/canonzombie",
+    "preview": "https://ihsansaid10.github.io/canonzombie"
   }
 ]
