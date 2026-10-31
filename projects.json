@@ -22,5 +22,11 @@
     "description": "game zombie shooter simple dibuat dengan Claude.ai",
     "source": "https://github.com/ihsansaid10/canonzombie",
     "preview": "https://ihsansaid10.github.io/canonzombie"
+  },
+  {
+    "name": "HTMLRacers",
+    "description": "play ths simple racing car games made with pure HTML CSS JS, connect your controller to play mutliplayer locally",
+    "source": "https://github.com/ihsansaid10/htmlracers",
+    "preview": "https://ihsansaid.bond/htmlracers"
   }
 ]
