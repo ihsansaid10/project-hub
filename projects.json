@@ -25,7 +25,7 @@
   },
   {
     "name": "HTMLRacers",
-    "description": "play ths simple racing car games made with pure HTML CSS JS, connect your controller to play mutliplayer locally",
+    "description": "A fast-paced racing game built with HTML, CSS, and JavaScript. You can play against your friends using your own Controller or AI opponents.",
     "source": "https://github.com/ihsansaid10/htmlracers",
     "preview": "https://ihsansaid.bond/htmlracers"
   }
